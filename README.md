@@ -1,9 +1,9 @@
 ### About me
 
-:world_map: Stuttgart, :de:  
-:mortar_board: I'm a Graduate Student in *Computational Mechanics*  
-:construction: I’m currently working on *Applied Machine Learning* projects in *Material Mechanics* and *Autonomous Driving*  
-:books: I’m currently learning *Bayesian Neural Networks* and *Graph Convolutional Networks*  
+:world_map: Kaiserslautern, :de:  
+:mortar_board: I'm a Researcher at the *German Research Center for Artificial Intelligence (DFKI)*  
+:construction: I’m currently working on *Physics-informed Deep Learning* and *Time-series Forecasting*
+<!-- :books: I’m currently learning *Bayesian Neural Networks* and *Graph Convolutional Networks*  -->
 :envelope_with_arrow: Reach out to me on [LinkedIn](https://www.linkedin.com/in/dineshkrishnanatarajan) or via [E-mail](mailto:dineshkrishna.natarajan@gmail.com)  
 :information_source: Visit my [personal webpage](https://dinesh-k-natarajan.github.io)  
 
