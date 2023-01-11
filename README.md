@@ -2,11 +2,12 @@
 
 :world_map: Kaiserslautern, :de:  
 :mortar_board: I'm a Researcher at the *German Research Center for Artificial Intelligence (DFKI)*  
-:construction: I’m currently working on *Physics-informed Deep Learning* and *Time-series Forecasting*
+:construction: I’m currently working on *Physics-informed Deep Learning*
 <!-- :books: I’m currently learning *Bayesian Neural Networks* and *Graph Convolutional Networks*  -->
 :envelope_with_arrow: Reach out to me on [LinkedIn](https://www.linkedin.com/in/dineshkrishnanatarajan) or via [E-mail](mailto:dineshkrishna.natarajan@gmail.com)  
+<!--
 :information_source: Visit my [personal webpage](https://dinesh-k-natarajan.github.io)  
-
+-->
 <!--
 **dinesh-k-natarajan/dinesh-k-natarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
