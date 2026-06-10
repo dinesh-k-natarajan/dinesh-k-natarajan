@@ -4,7 +4,7 @@
 :mortar_board: I'm a Researcher at the *German Research Center for Artificial Intelligence (DFKI)*  
 :construction: I’m currently working on AI4EO and Scientific Machine Learning. 
 <!-- :books: I’m currently learning *Bayesian Neural Networks* and *Graph Convolutional Networks*  -->
-:envelope_with_arrow: Reach out to me on [LinkedIn](https://www.linkedin.com/in/dineshkrishnanatarajan)  
+:envelope_with_arrow: Reach out to me on [LinkedIn](https://www.linkedin.com/in/dineshkrishnanatarajan) or via [E-mail](mailto:dinesh.natarajan@dfki.de)  
 <!--
 :information_source: Visit my [personal webpage](https://dinesh-k-natarajan.github.io)  
 -->
